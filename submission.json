@@ -1,0 +1,7 @@
+{
+  "prompt": "“A realistic classroom filled with many students sitting in rows, most of them wearing similar white uniforms and facing forward attentively. A very small number of students are wearing a different color like red or blue, scattered among the crowd, looking slightly out of place or in a different direction. Natural lighting, realistic proportions, cinematic photography style, shallow depth of field, no text, no symbols, no diagrams.",
+  "model": "DALL·E 3",
+  "concept": "Outlier Detection",
+  "metaphor": "A classroom of uniform students represents a consistent dataset, while a few differently dressed, misaligned students visually stand out as deviations, mapping to statistical outliers in an otherwise uniform distribution.",
+  "publish_email": true
+}
